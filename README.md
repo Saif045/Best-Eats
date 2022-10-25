@@ -1,6 +1,6 @@
-# eats
+# Best Eats
 
-a project for a creative agency specializing in helping brands grow fast.
+a simple food website
 
 built with React , Tailwind , vite and deployed on netlify
 
